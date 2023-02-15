@@ -1,0 +1,2 @@
+# Engineering Volleyball League at Virginia Tech
+This is a website project created by students involved with the Engineering Volleyball League at Virginia Tech that serves as a central hub for all activities surrounding the league and its operation. It is developed primarily with the MERN stack. Feel free to check it out and reach out if you are interested in contributing to: nrand02@vt.edu.
